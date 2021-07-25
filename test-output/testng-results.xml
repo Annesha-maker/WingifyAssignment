@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-26T02:23:33 IST" name="Default suite" finished-at="2021-07-26T02:24:03 IST" duration-ms="30250">
+    <groups>
+    </groups>
+    <test started-at="2021-07-26T02:23:33 IST" name="Default test" finished-at="2021-07-26T02:24:03 IST" duration-ms="30250">
+      <class name="test.ViewHeatMapPage_testng">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:test.ViewHeatMapPage_testng@3d5c822d]" started-at="2021-07-26T02:23:33 IST" name="setUpTest" finished-at="2021-07-26T02:23:35 IST" duration-ms="2320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="viewHeatMapTest()[pri:0, instance:test.ViewHeatMapPage_testng@3d5c822d]" started-at="2021-07-26T02:23:35 IST" name="viewHeatMapTest" finished-at="2021-07-26T02:24:02 IST" duration-ms="26702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewHeatMapTest -->
+        <test-method is-config="true" signature="checknewtab()[pri:0, instance:test.ViewHeatMapPage_testng@3d5c822d]" started-at="2021-07-26T02:24:02 IST" name="checknewtab" finished-at="2021-07-26T02:24:02 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checknewtab -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:test.ViewHeatMapPage_testng@3d5c822d]" started-at="2021-07-26T02:24:02 IST" name="tearDownTest" finished-at="2021-07-26T02:24:03 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.ViewHeatMapPage_testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
